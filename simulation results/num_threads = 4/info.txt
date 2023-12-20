@@ -1,0 +1,11 @@
+et_type = 'max'
+deadline_min = 0.5
+deadline_max = 1
+num_threads = 4
+******************
+alpha = 0.5
+beta = 0
+gamma = 0.5
+
+theta = 0.4
+psi = 0.6
