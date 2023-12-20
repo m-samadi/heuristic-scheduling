@@ -170,7 +170,7 @@ def specify_et(graph_type, num_tasks, task_list, bench_name, et_min, et_max, et_
 	sum_et = 0
 	for i in range(num_tasks):
 		sum_et += task_list[i].et
-	deadline = (random.randint(dl_min_prob * 10, dl_max_prob * 10) / 10) * sum_et
+	deadline = (random.randint(int(dl_min_prob * 10), int(dl_max_prob * 10)) / 10) * sum_et
 
 	# Calculate response time of the tasks #
 	for i in range(num_tasks):

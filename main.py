@@ -21,11 +21,11 @@
  #**************************************************************************
 import gen
 import func
-import bfs
-import lpt
-import spt
-import lnsnl
-import new
+from method import bfs
+from method import lpt
+from method import spt
+from method import lnsnl
+from method import new
 
 # Global variables #
 num_tasks = 50 # Number of tasks [random case]
