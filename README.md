@@ -29,7 +29,7 @@ The simulation process is executed with the following command:
 ```
 python main.py
 ```
-If the DAG needs to be generated based on the benchmark, press 'y'; otherwise press 'n'.
+If the DAG needs to be generated based on the benchmark, press 'y'; otherwise press 'n'. Note that the 'PIL' module should be installed before execution.
 <br/>
 <br/>
 ## References
