@@ -34,6 +34,9 @@ If the DAG needs to be generated based on the benchmark, press 'y'; otherwise pr
 <br/>
 ## References
 [1] Barcelona Supercomputing Center (BSC), "Extrae," December 2023. https://tools.bsc.es/extrae/
+<br/>
 [2] Innovative Computing Laboratory, University of Tennessee, "Performance Application Programming Interface, PAPI," April 2023. https://icl.utk.edu/papi/index.html/
+<br/>
 [3] Barcelona Supercomputing Center (BSC), "TDG instrumentation," December 2023. https://gitlab.bsc.es/ampere-sw/wp2/tdg-instrumentation-script/
+<br/>
 [4]	A. Munera, S. Royuela, G. Llort, E. Mercadal, F. Wartel, and E. Quiñones, "Experiences on the characterization of parallel applications in embedded systems with extrae/paraver," in Proc. of the 49th Int. Conference on Parallel Processing (ICPP '20), Edmonton, AB, Canada, pp. 1–11, August 17–20, 2020.
