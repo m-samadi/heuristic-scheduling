@@ -6,7 +6,7 @@ This simulator performs task-to-thread scheduling for OpenMP-based programs usin
 The graphs can be generated in the simulator based on the benchmark or randomly. The task execution time is calculated using the minimum, average, or maximum function. The application deadline is determined based on the volume of graph and a random number. For each method, the response time, status of the missed deadline, idle times of threads, and static scheduling of tasks in threads are determined at the end of the simulation process. Moreover, graphical results can be also generated to illustrate the scheduling steps of tasks. After scheduling the graph using each algorithm, the response times, idle times, and missed deadlines obtained from all the methods are exported to a file.
 <br/>
 <br/>
-As this simulator is used to schedule the graphs used in the provided benchmarks and the task execution times are high numbers, the time interval for the loop in the code of each method is set to 1000000 (i.e., t += 1000000) by default. But you can set it to 1 to simulate random graphics or other benchmarks.
+As this simulator is used to schedule the graphs used in the provided benchmarks and the task execution times are high numbers, the time interval for the loop in the code of each method is set to 1000000 (i.e., t += 1000000) by default. But you can set it to 1 to simulate random graphs or other benchmarks.
 <br/>
 <br/>
 ## Simulation parameters
